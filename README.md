@@ -1,0 +1,1 @@
+# OpenCV yordamida yuzni aniqlash
